@@ -34,6 +34,6 @@
      <a href="https://www.linkedin.com/in/karine-soares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
       <a href = "karineknd2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      
-    ![Snake animation](https://github.com/jairft/jairft/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/karinesf/karinesf/blob/output/github-contribution-grid-snake.svg)
     
   </div>
